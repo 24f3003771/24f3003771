@@ -1,24 +1,24 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Ishaan%20Jha&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Product%20%C2%B7%20Startups%20%C2%B7%20Business%20Execution&descSize=20&descAlignY=58" width="100%" alt="Ishaan Jha header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,45:3b1f8f,100:00b8d4&height=230&section=header&text=Ishaan%20Jha&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Product%20%C2%B7%20Startups%20%C2%B7%20Business%20Execution&descSize=20&descAlignY=58" width="100%" alt="Ishaan Jha header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&height=50&lines=Data+Science+%40+IIT+Madras+%C3%97+Digital+Business+%40+IIM+Bangalore;Building+AI+agents+%26+workflow+automation;Shipping+products+from+0+%E2%86%92+1;Turning+startup+ideas+into+scalable+systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=Data+Science+%40+IIT+Madras+%C3%97+Digital+Business+%40+IIM+Bangalore;Building+AI+agents+%26+workflow+automation;Shipping+products+from+0+%E2%86%92+1;Turning+startup+ideas+into+scalable+systems" alt="Typing animation" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=24f3003771&label=Profile+views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/badge/IIM-Bangalore-1F3A5F?style=for-the-badge" alt="IIM Bangalore" />
-<img src="https://img.shields.io/badge/IIT-Madras-9d174d?style=for-the-badge" alt="IIT Madras" />
+<img src="https://komarev.com/ghpvc/?username=24f3003771&label=Profile+views&color=00b8d4&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/IIM-Bangalore-3B1F8F?style=for-the-badge" alt="IIM Bangalore" />
+<img src="https://img.shields.io/badge/IIT-Madras-FF4D8D?style=for-the-badge" alt="IIT Madras" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ishaanjha-2b6977340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ishaanjha.in@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://dbeos.in"><img src="https://img.shields.io/badge/DBE--OS-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="DBE-OS" /></a>
-<a href="https://nova-unplugged.dbeos.in"><img src="https://img.shields.io/badge/Nova%20Unplugged-bb9af7?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nova Unplugged" /></a>
+<a href="https://dbeos.in"><img src="https://img.shields.io/badge/DBE--OS-00B8D4?style=for-the-badge&logo=vercel&logoColor=white" alt="DBE-OS" /></a>
+<a href="https://nova-unplugged.dbeos.in"><img src="https://img.shields.io/badge/Nova%20Unplugged-7C4DFF?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nova Unplugged" /></a>
 
 </div>
 
@@ -122,12 +122,12 @@ open_to:   [AI Products, SaaS, Startup Tools, Developer Platforms, Product Resea
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=24f3003771&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=24f3003771&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
+<img height="200" src="https://github-readme-stats.shion.dev/api?username=24f3003771&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=16&bg_color=135,0b1026,1b1145&title_color=00E5FF&text_color=C9D1FF&icon_color=FF4D8D&ring_color=00E5FF&border_color=2D2A6B&hide_border=false" alt="GitHub stats" />
+<img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=24f3003771&layout=donut&langs_count=8&border_radius=16&bg_color=135,0b1026,1b1145&title_color=00E5FF&text_color=C9D1FF&icon_color=FF4D8D&ring_color=00E5FF&border_color=2D2A6B&hide_border=false" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=24f3003771&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=24f3003771&background=135,0b1026,1b1145&border=2D2A6B&stroke=2D2A6B&ring=00E5FF&fire=FF4D8D&currStreakNum=FFFFFF&sideNums=00E5FF&currStreakLabel=FF4D8D&sideLabels=C9D1FF&dates=8B93C9&border_radius=16&hide_border=false" alt="GitHub streak" />
 
 <br/>
 
@@ -136,7 +136,7 @@ open_to:   [AI Products, SaaS, Startup Tools, Developer Platforms, Product Resea
 ### 📈 Contribution Graph
 
 <div align="center">
-<img src="https://ghchart.rshah.org/7aa2f7/24f3003771" alt="Contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/00E5FF/24f3003771" alt="Contribution graph" width="100%" />
 </div>
 
 ### 🐍 Contribution Snake
@@ -162,8 +162,8 @@ I'm always open to conversations and collaborations around **AI products, SaaS, 
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=9AA5CE&center=true&vCenter=true&width=620&lines=Always+interested+in+solving+real-world+problems+with+technology." alt="Closing line" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=A8B0E8&center=true&vCenter=true&width=620&lines=Always+interested+in+solving+real-world+problems+with+technology." alt="Closing line" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,45:3b1f8f,100:00b8d4&height=120&section=footer" width="100%" alt="Footer" />
