@@ -133,20 +133,12 @@ open_to:   [AI Products, SaaS, Startup Tools, Developer Platforms, Product Resea
 
 </div>
 
-### 📈 Contribution Graph
+### 🏙️ 3D Contribution Skyline
 
 <div align="center">
-<img src="https://ghchart.rshah.org/00E5FF/24f3003771" alt="Contribution graph" width="100%" />
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/24f3003771/24f3003771/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/24f3003771/24f3003771/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/24f3003771/24f3003771/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/24f3003771/24f3003771/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" width="100%" />
+<br/>
+<sub>Every building is a day. The taller the tower, the more I shipped.</sub>
 </div>
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
