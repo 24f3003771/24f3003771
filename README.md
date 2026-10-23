@@ -131,14 +131,12 @@ open_to:   [AI Products, SaaS, Startup Tools, Developer Platforms, Product Resea
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=24f3003771&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
-
 </div>
 
 ### 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=24f3003771&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/7aa2f7/24f3003771" alt="Contribution graph" width="100%" />
 </div>
 
 ### 🐍 Contribution Snake
